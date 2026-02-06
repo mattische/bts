@@ -1,0 +1,70 @@
+{
+  "appleTypes": {
+    "02": "iBeacon",
+    "05": "AirDrop",
+    "07": "AirPods",
+    "08": "Apple Watch",
+    "09": "AirPlay Target",
+    "0a": "HomeKit",
+    "0b": "Apple TV",
+    "0c": "Handoff",
+    "0d": "Hey Siri",
+    "0e": "AirPrint",
+    "0f": "AirPlay Source",
+    "10": "Nearby",
+    "12": "Find My",
+    "13": "Find My Network"
+  },
+  "samsungTypes": {
+    "01": "Galaxy Buds",
+    "02": "Galaxy Watch",
+    "03": "SmartThings",
+    "04": "Galaxy Tag",
+    "05": "Quick Share",
+    "42": "Galaxy Buds Pro",
+    "43": "Galaxy Buds Live"
+  },
+  "googleTypes": {
+    "01": "Chromecast",
+    "02": "Wear OS",
+    "03": "Fast Pair",
+    "04": "Nearby Share",
+    "06": "Pixel Buds",
+    "fc": "Google Assistant"
+  },
+  "microsoftTypes": {
+    "01": "Surface",
+    "02": "Xbox",
+    "03": "Swift Pair",
+    "04": "Surface Headphones",
+    "06": "Windows Nearby Share"
+  },
+  "xiaomiTypes": {
+    "01": "Mi Band",
+    "02": "Mi Watch",
+    "03": "Mi Smart Home",
+    "04": "Mi Buds",
+    "05": "Mi Scooter"
+  },
+  "serviceNames": {
+    "1800": "Generic Access",
+    "1801": "Generic Attribute",
+    "1802": "Immediate Alert",
+    "1803": "Link Loss",
+    "1804": "Tx Power",
+    "1805": "Current Time",
+    "180a": "Device Information",
+    "180d": "Heart Rate",
+    "180f": "Battery Service",
+    "1810": "Blood Pressure",
+    "1812": "HID",
+    "1816": "Cycling Speed",
+    "1818": "Cycling Power",
+    "181a": "Environmental Sensing",
+    "181c": "User Data",
+    "fe9f": "Google Fast Pair",
+    "fd6f": "Apple Exposure Notification",
+    "fff0": "Custom Service",
+    "ffa0": "Custom Service"
+  }
+}
