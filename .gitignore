@@ -1,0 +1,12 @@
+node_modules/
+*.txt
+*.log
+.DS_Store
+.package-lock.json
+.env
+dist/
+build/
+coverage/
+.idea/
+.vscode/
+*.iml
