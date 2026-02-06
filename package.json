@@ -2,7 +2,7 @@
   "type": "module",
   "name": "bluetooth-scanner",
   "version": "1.0.0",
-  "description": "Bluetooth scanner for cabin monitoring",
+  "description": "Bluetooth scanner",
   "main": "scan.js",
   "scripts": {
     "start": "node scan.js",
